@@ -1,4 +1,4 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)]
+![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm Sagara Sumathipala</h1>
 <h3 align="center">Leveraging AI/ML to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/LaVp0AyqR5bGsC5Cbm.webp">
